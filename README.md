@@ -1,4 +1,4 @@
-# Quantum Kernel Mixtures for Probabilistic Deep Learning
+# Experiments of the paper "Kernel Density Matrices for Probabilistic Deep Learning"
 
 This repository contains the code and additional resources for the paper "Kernel Density Matrices for Probabilistic Deep Learning" the paper is available at [arXiv]([https://arxiv.org/abs/2110.00000](https://arxiv.org/abs/2305.18204)). A more recent version of the library can be found at: https://github.com/fagonzalezo/kdm, however, the experiments in the paper were conducted using the code in this repository.
 
