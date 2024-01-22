@@ -180,7 +180,7 @@ The best hyperparameters for learning with label proportions are as follows:
 
 The data for this experiment can be found in: https://drive.google.com/file/d/1G2QKdSqtS9Mb2pzsXitgZUPhqL8IO8mm/view?usp=sharing
 
-    After download them, decompress in /NeurIPS-2023/scripts/Learning-from-Label-Proportions-A-Mutual-Contamination-Framework/
+After download them, decompress in /NeurIPS-2023/scripts/Learning-from-Label-Proportions-A-Mutual-Contamination-Framework/
 
 The original scripts and repository of the data can be found in: 
 
